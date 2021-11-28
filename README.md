@@ -9,7 +9,7 @@
 >本音乐API数据收集仅用于学习研究,请勿将以下接口用来商业推广以及其他获利用途，如有版权问题请告知删除!
 
 GitHub地址:
-https://github.com/ecitlm/Kugou-api
+https://github.com/xfyh520/Kugou-api
 
 ### 音乐新歌榜
 
